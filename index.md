@@ -6,6 +6,9 @@
 * [Protecting World Leaders against DeepFakes](http://www.hao-li.com/publications/papers/cvpr2019workshopsPWLADF.pdf)
 * [DeepFakes vs CheapFakes](https://datasociety.net/wp-content/uploads/2019/09/DS_Deepfakes_Cheap_FakesFinal-1.pdf)
 * [DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/abs/2001.00179)
+* [The Deepfake Detection Challenge (DFDC) Preview Dataset](https://arxiv.org/abs/1910.08854)
+* [FakeSpotter: A Simple yet Robust Baseline for Spotting AI-Synthesized Fake Faces](https://arxiv.org/abs/1909.06122)
+
 
 ## Contest
 * [DeepFakes Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge)
