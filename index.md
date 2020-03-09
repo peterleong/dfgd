@@ -8,6 +8,7 @@
 * [DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/abs/2001.00179)
 * [The Deepfake Detection Challenge (DFDC) Preview Dataset](https://arxiv.org/abs/1910.08854)
 * [FakeSpotter: A Simple yet Robust Baseline for Spotting AI-Synthesized Fake Faces](https://arxiv.org/abs/1909.06122)
+* [Deep Fakes: A Looming Challenge for Privacy, Democracy, and National Security - draft version](http://digitaltransmedia.digitaltransformers.cat/wp-content/uploads/2018/10/Falsificacions-profundes.pdf)
 
 
 ## Contest
