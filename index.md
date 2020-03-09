@@ -13,6 +13,7 @@
 * [Face2Face with pix2pix](https://medium.com/@karol_majek/high-resolution-face2face-with-pix2pix-1024x1024-37b90c1ca7e8)
 * [Faceswap is the leading free and Open Source multi-platform Deepfakes software.](https://faceswap.dev//)
 * [Github Faceswap](https://github.com/deepfakes/faceswap)
+* [Awesome DeepFakes Links to resources](https://github.com/aerophile/awesome-deepfakes)
 
 
 ## Contest
