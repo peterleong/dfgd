@@ -11,6 +11,8 @@
 * [Deep Fakes: A Looming Challenge for Privacy, Democracy, and National Security - draft version](http://digitaltransmedia.digitaltransformers.cat/wp-content/uploads/2018/10/Falsificacions-profundes.pdf)
 * [FaceForensics++: Learning to Detect Manipulated Facial Images](http://openaccess.thecvf.com/content_ICCV_2019/html/Rossler_FaceForensics_Learning_to_Detect_Manipulated_Facial_Images_ICCV_2019_paper.html) 
 * [Face2Face with pix2pix](https://medium.com/@karol_majek/high-resolution-face2face-with-pix2pix-1024x1024-37b90c1ca7e8)
+* [Faceswap is the leading free and Open Source multi-platform Deepfakes software.](https://faceswap.dev//)
+* [Github Faceswap](https://github.com/deepfakes/faceswap)
 
 
 ## Contest
